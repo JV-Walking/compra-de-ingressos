@@ -1,2 +1,2 @@
 # compra-de-ingressos
-Aprendendo JavaScript
+Aprendendo JavaScript para Front-End.
